@@ -1,6 +1,6 @@
 # bone_detection_classification
 
-In this paper, we introduce a bone detection and 
+In this case, we introduce a bone detection and 
 classification method utilizing deep learning methodology. We
 used three different models namely, MobileNet,
 and a customvit model, trained them on the bone x-ray images
